@@ -1,0 +1,12 @@
+
+// 참고 사이트: https://bug41.tistory.com/entry/Electron-exe-%EC%8B%A4%ED%96%89-%ED%8C%8C%EC%9D%BC-%EB%B9%8C%EB%93%9C-npm-run-buildwin64
+
+// gitbash에서 빌드하고 싶은 디렉토리로 이동 후: npm install -g electron-builder
+
+// git bash로 생성후: npm install
+
+// build 설치 -> 대상 디렉토리 : npm install -g electron-builder
+
+// 실행: npm start
+
+// exe 파일 생성: npm run build:win64

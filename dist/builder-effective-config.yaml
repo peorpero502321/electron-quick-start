@@ -1,0 +1,7 @@
+directories:
+  output: dist
+  buildResources: build
+win:
+  icon: /static/img/icon-pikachu.png
+files: []
+electronVersion: 26.0.0
